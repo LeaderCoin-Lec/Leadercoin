@@ -1,0 +1,2 @@
+# Leadercoin
+Leadercoin-LEC
